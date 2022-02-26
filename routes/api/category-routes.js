@@ -20,7 +20,12 @@ router.get('/:id', (req, res) => {
   Category.findOne({
     where: {
       id: req.params.id
-    }
+    },
+    attributes: ['product_name', 'price', 'stock'],
+    include: [{ model: Product,
+    }]
+    
+
   })
   .then(dbCategoryData => {
     if (!dbCategoryData) {
