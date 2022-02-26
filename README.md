@@ -18,7 +18,19 @@
 Description of this eCommerce assignment will go here.
 
 
- # Screenshot
+ # Screenshots
+ ![ScreenshotSignInMysql+sequalizeReset](https://user-images.githubusercontent.com/92233527/155861368-49febc3f-d520-4e49-82f8-d81018c9a905.png)
+
+ ![ScreenshotDatabasesInMysql+UseEcommerce](https://user-images.githubusercontent.com/92233527/155861460-171e07fd-878a-48e1-ae6f-4550057dae89.png)
+
+ ![ScrnshotRecreate ReconnectToDb](https://user-images.githubusercontent.com/92233527/155861649-82739f49-31d8-4f7a-b243-2a72e75e39f6.png)
+
+ ![ScrnshotRecreatTablesByNpm start](https://user-images.githubusercontent.com/92233527/155861748-60c7cc79-c7c8-4a32-a142-fe7e2979ca79.png)
+
+ ![ScrnshotSeededTables](https://user-images.githubusercontent.com/92233527/155861813-408820b5-a7b5-48e9-94f0-34553ad190d8.png)
+
+ ![ScrnshotSeededTables](https://user-images.githubusercontent.com/92233527/155861876-6fe82169-b5ab-4ace-980f-34d1ad9cc8b0.png)
+ 
  ![ScreenshotFinal-Insomnia](https://user-images.githubusercontent.com/92233527/155860837-774019b3-3a46-417e-97e8-4bc0fcb19ba9.png)
 
  # Video link
