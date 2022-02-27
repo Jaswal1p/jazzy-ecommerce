@@ -6,6 +6,9 @@
  # GitHub Repository Link
  https://github.com/Jaswal1p/jazzy-ecommerce.git
 
+ # Video link
+ https://drive.google.com/file/d/19nSHVnPt9nrglV7OCLwQsv3sTIl0GRK4/view
+
  # Table of Contents
  * [Installation](#installation)
  * [Usage](#usage)
@@ -15,7 +18,7 @@
  * [Questions](#questions)
  
  # Description
-Description of this eCommerce assignment will go here.
+ Once again this was a great learning experience to use sequelize to work with mySQL2 to create tables and seed the tables by using sequalize and connecting it to MySQL database. I also learned how to proyect password by using dotenv and keeping the env file in gitignore file! That was pretty cool. My biggest challenge was to learn how to many to many association of Tag and Product models with the help of "junction" model as ProductTag.js. Although model was provided but to incorporate into the create and update API routes was somewhat challenging. Had to read some documentation and also got to learn about it in tutoring session and then it clicked !!.
 
 
  # Screenshots
@@ -32,10 +35,6 @@ Description of this eCommerce assignment will go here.
  ![ScrnshotSeededTables](https://user-images.githubusercontent.com/92233527/155861876-6fe82169-b5ab-4ace-980f-34d1ad9cc8b0.png)
  
  ![ScreenshotFinal-Insomnia](https://user-images.githubusercontent.com/92233527/155860837-774019b3-3a46-417e-97e8-4bc0fcb19ba9.png)
-
- # Video link
- 
- https://drive.google.com/file/d/19nSHVnPt9nrglV7OCLwQsv3sTIl0GRK4/view
 
 
  # Installation
