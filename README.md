@@ -51,7 +51,7 @@
 
 
  # Usage
- In order to use this app, This app is to create professional quality readMe file for any repository, with details, badges, links as well as github and email links to help user contact for more details.
+ This app is to create Database tables and then seed them using sequalize, straight from the command line!.
 
  # License 
  > This project is licensed under the MIT license.
